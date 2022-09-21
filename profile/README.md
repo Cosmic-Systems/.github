@@ -3,5 +3,6 @@
 <h1>
 Cosmic Systems
 </h1>
-<p>Cosmic Systems is a web-development/hosting company founded by <a href="https://github.com/WhitigolProd/">Whitigol</a> in late 2018.</p>
+<p>Cosmic Systems is a web-development/hosting company founded in late 2018.</p>
+<p>This profile contains private repos for Cosmic System Development Projects</p>
 </div>
